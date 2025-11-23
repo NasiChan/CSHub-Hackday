@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Environment variables - DO NOT COMMIT THESE
+.env
+.env.local
+.env.*.local
+
+# IDE and OS files
+.DS_Store
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
